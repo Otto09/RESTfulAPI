@@ -1,0 +1,14 @@
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\bin\Debug\netcoreapp2.1\RESTfulAPI.deps.json
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\bin\Debug\netcoreapp2.1\RESTfulAPI.runtimeconfig.json
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\bin\Debug\netcoreapp2.1\RESTfulAPI.runtimeconfig.dev.json
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\bin\Debug\netcoreapp2.1\RESTfulAPI.dll
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.csprojAssemblyReference.cache
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.csproj.CoreCompileInputs.cache
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.RazorAssemblyInfo.cache
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.RazorAssemblyInfo.cs
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.AssemblyInfoInputs.cache
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.AssemblyInfo.cs
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\bin\Debug\netcoreapp2.1\RESTfulAPI.pdb
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.dll
+C:\Users\gogao\source\repos\RESTfulAPI\RESTfulAPI\obj\Debug\netcoreapp2.1\RESTfulAPI.pdb
